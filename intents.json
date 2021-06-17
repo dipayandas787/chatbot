@@ -1,0 +1,27 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi","hii and hey", "good day", "Greetings", "what's up?", "how is it going?"],
+    "responses": ["Hello!", "Heyy!", "What can I do for you?"]
+},
+{"tag": "goodbye",
+"patterns": ["see you later","goodbye","I am leaving","Have a good day","Bye","see you"],
+"responses": ["sad to see you go","Goodbye","Talk to you later","See you later"]
+},
+{"tag": "age",
+"patterns": ["How old are you?","what is your age?","What is your age?","Age?"],
+"responses": ["21years","My owner is 21 years old"]
+},
+{"tag": "name",
+"patterns": ["What is your name","what should I call you?","who are you?","Can you tell me your name?"],
+"responses": ["you can call me Dhoni","I am Dhoni"]
+},
+{"tag": "shop",
+"patterns": ["I'd like to buy something","What are your products?","what are you selling?","what do you recommend?"],
+"responses": ["we make chatbots according to the customer requirements"]
+},
+{"tag": "hours",
+"patterns": ["when you guys are open?","what are your hours?","hours of operation?"],
+"responses": ["24/7"]
+}
+
+]}
